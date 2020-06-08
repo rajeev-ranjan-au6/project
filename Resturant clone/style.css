@@ -1,0 +1,19 @@
+        #images {
+            width: 100%;
+            position: relative;
+            margin-top: 15px;
+            margin-left: 500px;
+        }
+        
+        #search {
+            position: absolute;
+            margin-top: 150px;
+            margin-left: 300px;
+        }
+        
+        .wait,
+        .wait:after {
+            border-radius: 50%;
+            width: 10em;
+            height: 10em;
+        }
